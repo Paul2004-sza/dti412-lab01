@@ -33,3 +33,15 @@ I expect to improve my application development skills, understand how to build s
 - **Technical skills I want to improve:** Python, SQL, application development, and database management.
 - **Technologies I want to learn:** Django, REST APIs, cloud technologies, and AI tools.
 - **Dream Job Position:** Data Analyst or Business Analyst.
+
+## Semester Goals
+
+- Learn Django.
+- Learn REST API Development.
+- Learn Cloud Deployment.
+
+## Portfolio Projects
+
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
